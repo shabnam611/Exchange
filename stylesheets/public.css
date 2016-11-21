@@ -1,0 +1,219 @@
+body{
+    width:100%;
+}
+#banner{
+    height:200px;
+    background-color: #A0C1CB;
+}
+#header{
+    padding: 20px;
+    margin-top: -10px;
+    float:left;
+    width:45%;
+}
+#user_area{
+    clear: both;
+    float: right;
+    margin-top: -120px;
+    width:45%;
+    padding-top: 40px;
+
+
+}
+#reg{
+    float:right;
+    padding-right:15px;
+}
+#log{
+    float:inherit;
+    margin-right: 20px;
+}
+#name{
+    float:right;
+    padding-right: 15px;
+    margin-bottom: 5px;
+}
+#logout{
+    clear:both;
+    float:right;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+.main{
+    width:80%;
+}
+#post_area{
+    clear:both;
+    width:100%;
+    margin-top: 10px;
+}
+
+#post
+{
+     width:100%;
+     margin-bottom:20px;
+     height:140px;
+}
+
+#footer
+{
+    text-align : right;
+}
+#form_area
+{
+    clear:both;
+    padding:25px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.post{
+
+    clear:both;
+    padding:20px;
+    margin: 0 auto;
+}
+
+#add_post_button
+{
+    clear:both;
+    float:right;
+    height:40px;
+    background-color: #478568;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:#F9738B;
+}
+#add_post{
+    padding-right: 20px;
+    margin-top:-15px;
+}
+#header > a{
+    color:#000000;
+}
+
+#contact{
+    margin-top: 20px;
+    padding:40px;
+    border:solid 2px black;
+    text-align: center;
+}
+
+#post-head{
+    font-size: 40px;
+    font-weight: bolder;
+    color: #70A0A1;
+    text-align: right;
+}
+
+#post-user{
+    font-size: 20px;
+    padding-top: 30px;
+    text-align: right;
+    padding-top: 50px;
+}
+
+
+#post-time
+{
+    font-size: 15px;
+    text-align: right;
+    text-decoration: none;
+}
+#heading
+{
+    font-size: 30px;
+    text-align: center;
+    color:#A53535;
+
+}
+
+#author
+{
+    text-align: center;
+    color: #3C3C3C;
+    font-size: 20px;
+}
+#post_time{
+     font-size: 15px;
+    text-align: right;
+    text-decoration: none;
+}
+#post_body{
+    padding:5px;
+    border:solid 1px #818181;
+    text-align: left;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#contact_button{
+    margin-left:30%;
+    height:40px;
+    background-color: #C46F00;
+    color: #E7E7E7;
+    border-radius: 5px;
+}
+
+#contact-area{
+    padding:20px;
+    width:400px;
+    margin:0 auto;
+
+}
+
+button{
+    height:40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#inp_btn{
+    margin-left: 140px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height:40px;
+    background-color: #4589A4;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+
+#alert{
+    color: #FF0000;
+}
+
+#log_button{
+    background-color: #D7B181;
+    color: #FFFFF;
+    border-radius: 6px;
+}
+
+#sign_button{
+
+    background-color: #AF5F12;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+#logout_button{
+
+    background-color: #C36662;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+#post_button{
+    background-color: #47814E;
+    color: #FFFFFF;
+    border-radius: 6px;
+}
+#headline{
+    width:90%;
+}
+textarea{
+    width:90%;
+    height:200px;
+}
